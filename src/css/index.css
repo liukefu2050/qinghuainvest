@@ -1,0 +1,238 @@
+﻿@charset "utf-8";
+
+.wraper-index{
+  background-color: #ededed;
+}
+
+.banner{
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  min-width: 1200px;
+  max-width: 1348px;
+}
+.banner li a{
+  display: block;
+  height: 100%;
+}
+.banner .bxslider li{
+  height: 485px;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+.banner .container{
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  min-width: 1200px;
+  max-width: 1348px;
+}
+.banner-navi{
+  position: absolute;
+  left: 0;
+  width: 100%;
+  bottom: 67px;
+  z-index: 100;
+  text-align: center;
+}
+.banner-navi .bx-pager{
+  display: inline-block;
+}
+
+.wraper-index .block-main{
+  margin-top: -20px;
+  height: 443px;
+  background-position: center 0;
+}
+.wraper-index .block-main h3 a{
+  color: #444;
+}
+.wraper-index .block-main h3 .text-blank:hover{
+  text-decoration: none;
+}
+.wraper-index .block-main .pic{
+  left: 148px;
+  top: 68px;
+}
+.wraper-index .block-main section{
+  top:20px;
+  width: 453px;
+  height: 250px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  padding-right: 25px;
+}
+.wraper-index .block-main section p{
+  color: #999;
+}
+.wraper-index .block-main .bg-blank{
+  top:20px;
+  height: 340px;
+}
+
+.service-index{
+  height: 690px;
+}
+.service-index .container{
+  padding-top: 50px;
+}
+.service-index .t-style-1{
+  padding-bottom: 80px;
+}
+.service-index .t-style-1 a{
+  color: #fff;
+}
+.service-index li{
+  width: 300px;
+  height: 380px;
+  margin-right: 76px;
+  background-color: #fff;
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+  -moz-box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+}
+.service-index li .pic{
+  height: 126px;
+  overflow: hidden;
+}
+.service-index li .pic img{
+  width: 100%;
+  min-height: 126px;
+}
+.service-index li .cnt{
+  margin: 26px 40px 24px;
+  text-align: right;
+}
+.service-index li h4{
+  position: relative;
+  z-index: 1;
+  height: 57px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #7e6b5a;
+  text-align: center;
+}
+.service-index li h4 span{
+  position: absolute;
+  left: 50%;
+  top: 35px;
+  z-index: 1;
+  margin-left: -15px;
+}
+.service-index li p{
+  height: 118px;
+  overflow: hidden;
+  line-height: 24px;
+  text-align: justify;
+  padding-bottom: 8px;
+}
+.service-index li .btn-sm{
+  padding-left: 13px;
+  padding-right: 13px;
+}
+@media (min-width: 1280px) {
+
+}
+
+.about-more{
+  height: 340px;
+  color: #fff;
+  font-size: 28px;
+  line-height: 30px;
+  text-align: center;
+  background: url("../images/about-more.jpg") center top no-repeat;
+}
+.about-more h4{
+  padding-top: 84px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #fff;
+  font-size: 36px;
+}
+.about-more p{
+  margin-bottom: 48px;
+}
+.about-more .btn{
+  padding: 12px 30px;
+}
+.about-more .btn:hover{
+  border-color: #f98818;
+  background-color: #f98818;
+  color: #fff;
+}
+
+.list-news .bdsharebuttonbox{
+  float: right;
+  margin-top: -4px;
+}
+
+.t-style-c{
+    text-align: center;
+    margin-left: 317px;
+    margin-top: 10px;
+    margin-bottom: 20px
+}
+.t-style-c li{
+    float: none;
+    display: inline-block;
+}
+
+.collaborator-index{
+  width: 100%;
+  margin: 0 auto;
+  min-width: 1200px;
+  max-width: 1348px;
+  height: 381px;
+  background: url("../images/collaborator_bg.png") center top no-repeat;
+}
+
+.collaborator-index .container{
+  padding-top: 77px;
+}
+.collaborator-index li{
+  width: 300px;
+  height: 380px;
+  margin-right: 76px;
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+  -moz-box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+}
+
+.collaborator-index li .cnt{
+  padding: 26px 40px 24px;
+  color: #999;
+  text-align: center;
+}
+.collaborator-index li h4{
+  position: relative;
+  z-index: 1;
+  height: 57px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #7e6b5a;
+  text-align: center;
+}
+.collaborator-index li h4 span{
+  position: absolute;
+  left: 50%;
+  top: 35px;
+  z-index: 1;
+  margin-left: -15px;
+}
+.collaborator-index li p{
+  height: 118px;
+  overflow: hidden;
+  line-height: 24px;
+  text-align: justify;
+  padding-bottom: 8px;
+}
+@media (min-width: 1280px) {
+}
+
+.bx-shadow{
+  -moz-box-shadow: 10px 10px 20px #666666;
+  -webkit-box-shadow: 10px 10px 20px #666666;
+  box-shadow: 10px 10px 20px #666666;
+}

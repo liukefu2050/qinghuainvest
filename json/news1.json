@@ -1,0 +1,100 @@
+{
+  "page": {
+    "datas": [
+      {
+        "content": "首期仅剩2席",
+        "createTime": {
+          "date": 19,
+          "day": 5,
+          "hours": 22,
+          "minutes": 5,
+          "month": 7,
+          "nanos": 0,
+          "seconds": 26,
+          "time": 1471615526000,
+          "timezoneOffset": -480,
+          "year": 116
+        },
+        "idStr": "ff808081568d73aa0156b047b4ec004f",
+        "imageName": "/images/message/ff808081568d73aa0156b047b4ec004f.jpg",
+        "linkAddress": "http://mp.weixin.qq.com/s?__biz=MzI5MzAyMzM4NA==&mid=2653145602&idx=4&sn=d259f80e48787d561c7f5b0ec1a26e86&scene=4#wechat_redirect",
+        "title": "新三板国际大咖揭秘香港行",
+        "type": {
+          "code": "001-001",
+          "name": "海外考察"
+        }
+      },
+      {
+        "content": "第三期金融科技考察团为国内顶尖商院P2P企业量身定制",
+        "createTime": {
+          "date": 18,
+          "day": 4,
+          "hours": 15,
+          "minutes": 45,
+          "month": 7,
+          "nanos": 0,
+          "seconds": 0,
+          "time": 1471506300000,
+          "timezoneOffset": -480,
+          "year": 116
+        },
+        "idStr": "ff808081568d73aa01569cbcddf6003a",
+        "imageName": "/images/message/ff808081568d73aa01569cbcddf6003a.jpg",
+        "linkAddress": "http://mp.weixin.qq.com/s?__biz=MzI1NzMzMzgzMA==&mid=2247484058&idx=1&sn=977f028dd2e55fcdfd66ef91376c9985&scene=0#wechat_redirect",
+        "title": "回顾丨携手中国P2P大咖，盘点美国值得一看的新金融企业",
+        "type": {
+          "code": "001-001",
+          "name": "海外考察"
+        }
+      },
+      {
+        "content": "学创新、探应用、谈合作、聊投资",
+        "createTime": {
+          "date": 17,
+          "day": 3,
+          "hours": 10,
+          "minutes": 15,
+          "month": 7,
+          "nanos": 0,
+          "seconds": 45,
+          "time": 1471400145000,
+          "timezoneOffset": -480,
+          "year": 116
+        },
+        "idStr": "ff808081568d73aa0156966cb40f0024",
+        "imageName": "/images/message/ff808081568d73aa0156966cb40f0024.jpg",
+        "linkAddress": "http://mp.weixin.qq.com/s?__biz=MzI1NzMzMzgzMA==&mid=2247484049&idx=1&sn=676bfb7f44e5bb337b1f81e9d971ed3c&scene=0#wechat_redirect",
+        "title": "最新行程出炉：美国值得看的区块链企业都在这儿啦",
+        "type": {
+          "code": "001-001",
+          "name": "海外考察"
+        }
+      },
+      {
+        "content": "你准备好迎接洪荒之力了吗？",
+        "createTime": {
+          "date": 11,
+          "day": 4,
+          "hours": 21,
+          "minutes": 20,
+          "month": 7,
+          "nanos": 0,
+          "seconds": 44,
+          "time": 1470921644000,
+          "timezoneOffset": -480,
+          "year": 116
+        },
+        "idStr": "ff80808156697c1c01567c5289a50011",
+        "imageName": "/images/message/ff80808156697c1c01567c5289a50011.jpg",
+        "linkAddress": "http://mp.weixin.qq.com/s?__biz=MzI1NzMzMzgzMA==&mid=2247484043&idx=1&sn=e8b8bf85e0c66a431ba304bdae6cd3b2&scene=4#wechat_redirect",
+        "title": "如何拥有洪荒之力？区块链技术带你飞！",
+        "type": {
+          "code": "001-001",
+          "name": "海外考察"
+        }
+      }
+    ],
+    "totalProperty": 13
+  },
+  "success": true
+}

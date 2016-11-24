@@ -1,0 +1,191 @@
+@charset "utf-8";
+
+.service_title{
+    margin: 0 auto;
+    width:1015px;
+    padding-bottom: 50px;
+}
+
+.title_anlizhanshi{
+    background: url("../images/title_anlizhanshi.png") center top no-repeat;
+}
+
+.title_hexintuandui{
+    background: url("../images/title_hexintuandui.png") center top no-repeat;
+}
+
+.title_hexinyewu{
+    background: url("../images/title_hexinyewu.png") center top no-repeat;
+}
+
+.service_title h1{
+    padding-left: 30px;
+    color: #ffffff;
+    line-height: 142px;
+}
+
+.service_content .service-table{
+    margin: 0 auto;
+}
+.service-table{
+    margin-bottom: 30px;
+    width: 900px;
+}
+.service-table td {
+    vertical-align: middle;
+    text-align: center;
+    height: 190px;
+}
+
+.service-table section{
+    font-size: 16px;
+}
+.service-table section p{
+    text-indent:2em;
+    line-height: 24px;
+}
+.service-table section p h4{
+    font-size: 22px;
+    line-height: 54px;
+    font-weight: bold;
+}
+.service-table section p li{
+    line-height: 34px;
+    font-size: 18px;
+}
+
+.service_title_box{
+    margin: 0 auto;
+    width:1015px;
+    padding-bottom: 50px;
+}
+.service_title_box section p{
+    text-indent:2em;
+    line-height: 24px;
+}
+
+.service_content .guide-table{
+    margin: 0 auto;
+}
+.guide-table{
+    margin-bottom: 30px;
+    width: 900px;
+}
+.guide-table td {
+    vertical-align: top;
+    text-align: center;
+    height: 190px;
+}
+
+.guide-table section{
+    padding: 30px 40px;
+    font-size: 16px;
+}
+.guide-table section p{
+    line-height: 24px;
+}
+.guide-table section h1{
+    color: #ffffff;
+    padding-bottom: 25px;
+    font-size: 90px;
+    line-height: 54px;
+    font-weight: bold;
+}
+.guide-table section p li{
+    line-height: 52px;
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.guide_step{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.guide_line{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.guide_content{
+    text-align: left;
+}
+
+.guide_content_box1{
+    text-align: left;
+    width:870px;
+    height:359px;
+    background: url("../images/2012.png") center top no-repeat;;
+}
+
+.guide_content_box2{
+    text-align: left;
+    width:870px;
+    height:359px;
+    background: url("../images/2013.png") center top no-repeat;;
+}
+
+.guide_content_box3{
+    text-align: left;
+    width:870px;
+    height:420px;
+    background: url("../images/2014.png") center top no-repeat;;
+}
+
+.guide_content_box4{
+    text-align: left;
+    width:870px;
+    height:727px;
+    background: url("../images/2015.png") center top no-repeat;;
+}
+
+.guide_content_box5{
+    text-align: left;
+    width:870px;
+    height:564px;
+    background: url("../images/2016.png") center top no-repeat;;
+}
+
+.boss_card{
+    width: 528px;
+    height: 229px;
+    background: url("../images/boss_card.png") right top no-repeat;
+}
+.boss_card section{
+    padding: 30px 40px;
+    font-size: 16px;
+}
+.boss_card section p{
+    line-height: 24px;
+}
+.service-table .boss_card section p{
+    text-indent:0em;
+    line-height: 24px;
+}
+.boss_card section h4{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+}
+.boss_card section p li{
+    line-height: 28px;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.honor_bg{
+    width: 100%;
+    height: 2397px;
+    background: url("../images/honor_bg.jpg") center top no-repeat;
+}
+
+.develop_bg{
+    width: 100%;
+    height: 3244px;
+    background: url("../images/develop_bg.jpg") center top no-repeat;
+}
+
+.title_dynamic{
+    width: 100%;
+    background: url("../images/dynamic.jpg") center top no-repeat;
+}

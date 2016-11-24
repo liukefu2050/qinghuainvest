@@ -1,0 +1,54 @@
+{
+  "page": {
+    "datas": [
+      {
+        "content": "酷暑炎炎，难捂三板企业融资困难凉透的心!暂忘烦恼，拓展眼界游学高端金融资本之地!",
+        "createTime": {
+          "date": 6,
+          "day": 6,
+          "hours": 10,
+          "minutes": 20,
+          "month": 7,
+          "nanos": 0,
+          "seconds": 13,
+          "time": 1470450013000,
+          "timezoneOffset": -480,
+          "year": 116
+        },
+        "idStr": "ff8080815655020c015667d11d1a0011",
+        "imageName": "/images/message/ff8080815655020c015667d11d1a0011.jpg",
+        "linkAddress": "http://mp.weixin.qq.com/s?__biz=MzI5MzAyMzM4NA==&mid=2653145536&idx=1&sn=dcf972bbf68ab91147426fc7b1ee2d39&scene=4#wechat_redirect",
+        "title": "有火花！有碰撞！还能结识有志海外的新三板大咖！一趟香港之旅真的够吗？",
+        "type": {
+          "code": "001-003",
+          "name": "培训活动"
+        }
+      },
+      {
+        "content": "2016已过半程新三板企业融资之路依然艰难",
+        "createTime": {
+          "date": 19,
+          "day": 2,
+          "hours": 9,
+          "minutes": 23,
+          "month": 6,
+          "nanos": 0,
+          "seconds": 12,
+          "time": 1468891392000,
+          "timezoneOffset": -480,
+          "year": 116
+        },
+        "idStr": "5",
+        "imageName": "/images/message/3.2.png",
+        "linkAddress": "http://mp.weixin.qq.com/s?__biz=MzI5MzAyMzM4NA==&mid=2653145431&idx=2&sn=158f74e0154b7b238d417fb2a96e242c&scene=4#wechat_redirect",
+        "title": "挂牌公司如何吸引投资人目光——企业价值提炼方式与方法",
+        "type": {
+          "code": "001-003",
+          "name": "培训活动"
+        }
+      }
+    ],
+    "totalProperty": 2
+  },
+  "success": true
+}
